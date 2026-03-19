@@ -70,6 +70,24 @@ images/ — Visualizations used in the report
 
 README.md — Project summary (this file)
 
+Visualizations
+
+Visualizations
+
+1. Ride Length Comparison
+[Ride Length](images/ride_length.png)
+
+2. Rides by Day of Week
+[Day of Week](images/day_of_week.png)
+
+3. Bike Type Usage
+[Bike Type](images/bike_type.png)
+
+4. Monthly Usage Trends
+[Monthly Usage](images/monthly_usage.png)
+
+
+
 Contact
 If you'd like to discuss this project or explore collaboration opportunities, feel free to reach out:
 Moussa  
