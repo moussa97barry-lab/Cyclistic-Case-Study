@@ -73,7 +73,7 @@ README.md — Project summary (this file)
 Visualizations
 
 Average Ride Length
-[Average Ride Length](Average Ride Length.png)
+[Average Ride Length](Average_Ride_Length.png)
 
 Bike Type Usage
 ![Bike Type Usage](Bike Type Usage.png)
@@ -86,28 +86,6 @@ Rides per Day of Week
 
 Rides per Month
 [Rides per Month](Rides Per Month.png)
-
-
-## 📊 Visualizations
-
-### Average Ride Length
-![Average Ride Length](Average Ride Length.png)
-
-### Bike Type Usage
-![Bike Type Usage](Bike Type Usage.png)
-
-### Peak Hours of Usage
-![Peak Hours](Peak Hours Of Usage.png)
-
-### Rides per Day of Week
-![Rides per Day](Ride per day of week.png)
-
-### Rides per Month
-![Rides per Month](Rides Per Month.png)
-
-
-
-
 
 Contact
 If you'd like to discuss this project or explore collaboration opportunities, feel free to reach out:
