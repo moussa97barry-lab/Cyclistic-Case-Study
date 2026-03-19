@@ -75,7 +75,7 @@ Visualizations
 Visualizations
 
 1. Ride Length Comparison
-[Ride Length](images/ride_length.png)
+[Ride Length](images/AverageRid e Length.png)
 
 2. Rides by Day of Week
 [Day of Week](images/day_of_week.png)
