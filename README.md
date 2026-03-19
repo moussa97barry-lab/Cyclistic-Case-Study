@@ -101,6 +101,9 @@ Rides per Month
 ### Monthly Usage Trends
 ![Monthly Usage](images/monthly_usage.png)
 
+### Peak Hours of Usage
+![Peak Hours](images/peak_hours.png)
+
 
 Contact
 If you'd like to discuss this project or explore collaboration opportunities, feel free to reach out:
