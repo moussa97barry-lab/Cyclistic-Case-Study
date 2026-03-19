@@ -87,6 +87,21 @@ Rides per Day of Week
 Rides per Month
 [Rides per Month](Rides Per Month.png)
 
+## 📊 Visualizations
+
+### Ride Length Comparison
+![Ride Length](images/ride_length.png)
+
+### Rides by Day of Week
+![Day of Week](images/day_of_week.png)
+
+### Bike Type Usage
+![Bike Type](images/bike_type.png)
+
+### Monthly Usage Trends
+![Monthly Usage](images/monthly_usage.png)
+
+
 Contact
 If you'd like to discuss this project or explore collaboration opportunities, feel free to reach out:
 Moussa  
