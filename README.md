@@ -72,19 +72,21 @@ README.md — Project summary (this file)
 
 Visualizations
 
-Visualizations
+Average Ride Length
+[Average Ride Length](Average Ride Length.png)
 
-1. Ride Length Comparison
-[Ride Length](images/AverageRid e Length.png)
+Bike Type Usage
+![Bike Type Usage](Bike Type Usage.png)
 
-2. Rides by Day of Week
-[Day of Week](images/day_of_week.png)
+Peak Hours of Usage
+[Peak Hours](Peak Hours Of Usage.png)
 
-3. Bike Type Usage
-[Bike Type](images/bike_type.png)
+Rides per Day of Week
+[Rides per Day](Ride per day of week.png)
 
-4. Monthly Usage Trends
-[Monthly Usage](images/monthly_usage.png)
+Rides per Month
+[Rides per Month](Rides Per Month.png)
+
 
 
 
