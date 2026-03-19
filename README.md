@@ -88,6 +88,25 @@ Rides per Month
 [Rides per Month](Rides Per Month.png)
 
 
+## 📊 Visualizations
+
+### Average Ride Length
+![Average Ride Length](Average Ride Length.png)
+
+### Bike Type Usage
+![Bike Type Usage](Bike Type Usage.png)
+
+### Peak Hours of Usage
+![Peak Hours](Peak Hours Of Usage.png)
+
+### Rides per Day of Week
+![Rides per Day](Ride per day of week.png)
+
+### Rides per Month
+![Rides per Month](Rides Per Month.png)
+
+
+
 
 
 Contact
