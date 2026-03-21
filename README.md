@@ -65,22 +65,23 @@ Classic bikes are used more by members, while casual riders use more electric bi
 
 Seasonal patterns show higher casual usage in warmer months.
 
+
 Visualizations
 
 Ride Length Comparison
 ![Ride Length](images/ride_length.png)
 
 Rides by Day of Week
-[Day of Week](images/day_of_week.png)
+![Day of Week](images/day_of_week.png)
 
 Peak Hours of Usage
-[Peak Hours](images/peak_hours.png)
+![Peak Hours](images/peak_hours.png)
 
 Bike Type Usage
-[Bike Type](images/bike_type.png)
+![Bike Type](images/bike_type.png)
 
 Monthly Usage Trends
-[Monthly Usage](images/monthly_usage.png)
+![Monthly Usage](images/monthly_usage.png)
 
 
 Recommendations
