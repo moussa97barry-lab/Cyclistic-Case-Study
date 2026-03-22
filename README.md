@@ -103,8 +103,11 @@ This analysis reveals clear differences between casual and member riders. Member
 
 
 Contact
+
 If you'd like to discuss this project or explore collaboration opportunities, feel free to reach out:
+
 Moussa  
 Aspiring Data Analyst
-GitHub: github.com/moussa97barry-lab 
-LinkedIn: 
+
+GitHub:  github.com/moussa97barry-lab/Cyclistic-Case-Study
+LinkedIn: linkedin.com/in/bary-moussa-246392303
